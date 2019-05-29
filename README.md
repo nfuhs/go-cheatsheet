@@ -20,7 +20,7 @@ func main(){
 
 ```
 
-## Basic types of Go :
+## Basic Types:
 
 * bool
 * string
@@ -30,3 +30,6 @@ func main(){
 * rune - alias for int32 represents a Unicode code point
 * float32 float64
 * complex64 complex128
+
+## Control flow
+
