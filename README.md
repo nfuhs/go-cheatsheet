@@ -11,10 +11,17 @@ func main(){
     fmt.Println("Hello Go!")
 }
 ```
+## Comments in Go
+```go
+// Singleline comment
 
-## Basic Types
+/* Mutliline comment
+*/
+
+```
 
 ## Basic types of Go :
+
 * bool
 * string
 * int  int8  int16  int32  int64
